@@ -1,0 +1,3 @@
+[run]
+source = ecg_labeling
+omit = ecg_labeling/test*
